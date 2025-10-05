@@ -9,7 +9,7 @@ This project focuses on **data-driven decision-making** by transforming raw tran
 
 ## 📂 Project Files  
 - 📊 [Excel Dashboard (Interactive)](https://github.com/Muhammad-Jan/Ecommerce-Sales-Dashboard/blob/main/E-Commerce%20dashboard.xlsx)  
-- 📑 [Business Insights & PPT](https://github.com/Muhammad-Jan/Ecommerce-Sales-Dashboard/blob/main/E-Commerce%20Business%20Problems%20%26%20Insights.pptx)  
+- 📑 [Business Insights & PPT](https://github.com/Muhammad-Jan/Ecommerce-Sales-Dashboard/blob/main/E-Commerce%20Business%20Problems.pptx)  
 - 📂 [Dataset](https://github.com/Muhammad-Jan/Ecommerce-Sales-Dashboard/blob/main/E_Commerce_data.csv)  
 
 ---
